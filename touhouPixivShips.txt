@@ -1324,6 +1324,7 @@ Nemuno Okina 1x10000
 
 Nemuno Urumi 1x10000
 
+Nemuno Takane 2
 Nemuno Sannyo 2x10
 
 Aunn Narumi 44
