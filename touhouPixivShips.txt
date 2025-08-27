@@ -958,6 +958,7 @@ Komachi Eiki 1770
 Komachi Nitori 2
 Komachi Sanae 2
 
+Komachi Urumi 5
 Komachi Kutaka 4
 
 Komachi Suika 1x10000
