@@ -623,6 +623,9 @@ Flandre Okina 143
 Flandre Suika 3
 Flandre Iku 5
 Flandre Tenshi 5
+
+Flandre Kokoro 2
+
 Flandre Yuuma 139
 
 Flandre Sunny 8
@@ -650,9 +653,12 @@ Chen Yuyuko 2
 Chen Ran 255
 Chen Yukari 49
 
+Chen Tewi 83
 Chen Reisen 1x10000
 
 Chen Nitori 4
+
+Chen Parsee 4
 
 Chen Rin 96
 
@@ -738,6 +744,8 @@ Merlin Lyrica 1x10000
 
 Merlin Piece 7
 
+Merlin Raiko 2
+
 Lyrica Yatsuhashi 17
 
 Lyrica Raiko 35
@@ -749,7 +757,10 @@ Youmu Wriggle 1x10000
 
 Youmu Tewi 1x10000
 
+Youmu Medicine 4
 Youmu Yuuka 1x10000
+
+Youmu Parsee 3
 
 Youmu Yoshika 3
 Youmu Tojiko 3
@@ -780,6 +791,8 @@ Yuyuko Yoshika 12
 Yuyuko Okina 1x10000
 
 Yuyuko Tenshi 9
+
+Yuyuko Kokoro 5
 
 Ran Yukari 363
 
@@ -860,6 +873,7 @@ Tewi Eirin 17
 Tewi Kaguya 49
 Tewi Mokou 15
 
+Tewi Medicine 61
 Tewi Yuuka 1x10000
 
 Tewi Koishi 3
@@ -871,6 +885,7 @@ Tewi Sagume 6
 Reisen Eirin 184
 Reisen Kaguya 220
 
+Reisen Medicine 11
 Reisen Yuuka 1x10000
 
 Reisen Eiki 2
@@ -887,12 +902,16 @@ Reisen Kagerou 1x10000
 Reisen Seiran 1x10000
 Reisen Ringo 1x10000
 
+Reisen Junko 344
+
 Eirin Kaguya 781
 Eirin Mokou 18
 
 Eirin Medicine 91
 
 Eirin Junko 13
+
+Eirin Kokoro 1x10000
 
 Eirin Toyohime 1x10000
 
@@ -916,6 +935,8 @@ Mokou Mamizou 3
 
 Mokou Kagerou 6
 
+Mokou Shinmy 15
+
 Mokou Iku 3
 Mokou Tenshi 20
 Mokou Sumi 116
@@ -933,6 +954,8 @@ Aya Seija 10
 Aya Shinmy 1x10000
 
 Aya Kosuzu 13
+
+Aya Miyoi 3
 
 Medicine Yuuka 471
 Medicine Komachi 1x10000
@@ -1047,6 +1070,8 @@ Kanako Nazrin 1x10000
 
 Kanako Yuiman 4x10x5
 
+Kanako Kokoro 34
+
 Suwako Parsee 1x10000
 
 Suwako Koishi 30
@@ -1096,6 +1121,8 @@ Satori Kyouko 3
 
 Satori Byakuren 5
 
+Satori Kokoro 25
+
 Rin Okuu 1220
 Rin Koishi 29
 Rin Nazrin 37
@@ -1137,6 +1164,10 @@ Kogasa Byakuren 13
 Kogasa Mamizou 1x10000
 
 Kogasa Seki 328
+
+Kogasa Raiko 3
+
+Kogasa Kokoro 32
 
 Ichirin Murasa 896
 Ichirin Shou 48
@@ -1191,6 +1222,8 @@ Futo Miko 473
 
 Futo Piece 14
 
+Futo Kokoro 17
+
 Miko Mamizou 3
 
 Miko Okina 72
@@ -1237,10 +1270,16 @@ Seija Sagume 117
 
 Shinmy Raiko 6
 
+Shinmy Suika 13
 Shinmy Tenshi 8
 
+Shinmy Kokoro 6
 Shinmy Sumi 27
 Shinmy Shion 6
+
+Raiko Nemuno 3
+
+Raiko Kokoro 3
 
 Seiran Sagume 20
 
