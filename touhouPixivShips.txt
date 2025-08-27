@@ -561,6 +561,9 @@ Remilia Chen 1x10000
 Remilia Alice 92
 Remilia Merlin 1x10000
 Remilia Youmu 7
+Remilia Yuyuko 12
+Remilia Ran 1x10000
+Remilia Yukari 11
 
 Remilia Yuuka 1x10000
 
@@ -723,6 +726,8 @@ Alice Yorihime 1x10000
 
 Alice Akyuu 1x10000
 
+Lily Reisen 1x10000
+
 Lily Eternity 2
 
 Lily Sunny 3
@@ -793,13 +798,16 @@ Youmu Hatate 2
 Youmu Kokoro 3
 
 Yuyuko Ran 13
-
+Yuyuko Yukari 1799
+Yuyuko Mystia 76
 Yuyuko Kiene 1x10000
 
 Yuyuko Aya 3
 Yuyuko Medicine 1x10000
 
 Yuyuko Eiki 1x10000
+
+Yuyuko Hina 8
 
 Yuyuko Sanae 2
 Yuyuko Kanako 3
@@ -814,9 +822,26 @@ Yuyuko Tenshi 9
 
 Yuyuko Kokoro 5
 
+Yuyuko Merry 2
+
 Ran Yukari 363
 
+Ran Reisen 1x10000
+
+Ran Aya 8
+
+Ran Yuuka 13
+
+Ran Nitori 1x10000
+Ran Momiji 2
+Ran Sanae 6
+Ran Kanako 1x10000
+
 Ran Nazrin 4
+
+Ran Shou 55
+
+Ran Seiga 1x10000
 
 Ran Mamizou 140
 
@@ -827,16 +852,47 @@ Ran Tsukasa 15
 
 Ran Yuuma 125
 
+Yukari Wriggle 1x10000
+
+Yukari Kiene 8
+Yukari Tewi 7
+
+Yukari Eirin 103
 Yukari Kaguya 1x10000
 Yukari Mokou 5
 Yukari Aya 3
 Yukari Medicine 1x10000
+Yukari Yuuka 111
+
+Yukari Eiki 43
+
+Yukari Momiji 1x10000
+Yukari Sanae 4
+Yukari Kanako 4
+Yukari Suwako 1x10000
+
+Yukari Parsee 1x10000
+Yukari Yuugi 2
+Yukari Satori 6
+
+Yukari Koishi 2
 
 Yukari Kogasa 3
 
 Yukari Byakuren 5
 
+Yukari Kyouko 44
+
+Yukari Doremy 1x10000
+Yukari Sagume 1x10000
+
 Yukari Okina 328
+
+Yukari Zanmu 1x10000x5
+
+Yukari Suika 3
+Yukari Iku 2
+Yukari Tenshi 258
 
 Yukari Sumi 54
 
@@ -846,6 +902,9 @@ Yukari Renko 41
 Yukari Merry 100
 
 Yukari Toyohime 9
+
+Yukari Luna 7
+Yukari Kasen 4
 
 Wriggle Mystia 419
 Wriggle Kiene 1x10000
@@ -858,6 +917,8 @@ Wriggle Yuuka 647
 Wriggle Kisume 1x10000
 Wriggle Yamame 68
 
+Wriggle Koishi 4
+
 Wriggle Nazrin 11
 
 Wriggle Megumu 6
@@ -869,6 +930,8 @@ Mystia Reisen 2
 Mystia Mokou 147
 
 Mystia Aya 8
+
+Mystia Sanae 3
 
 Mystia Kyouko 564
 
@@ -884,7 +947,11 @@ Kiene Eirin 159
 
 Kiene Mokou 3430
 
+Kiene Eiki 1x10000
+
 Kiene Kagerou 26
+
+Kiene Sumi 1x10000
 
 Kiene Tokiko 4x5
 
@@ -976,6 +1043,8 @@ Aya Nemuno 7
 Aya Megumu 25
 
 Aya Hatate 893
+
+Aya Sumi 3
 
 Aya Kosuzu 13
 
@@ -1094,6 +1163,9 @@ Sanae Biten 5x10x5
 Sanae Hatate 25
 Sanae Sumi 47
 
+Sanae Renko 4
+Sanae Merry 1x10000
+
 Kanako Suwako 418
 
 Kanako Okuu 32
@@ -1154,6 +1226,7 @@ Satori Kyouko 3
 Satori Byakuren 5
 
 Satori Kokoro 25
+Satori Sumi 1x10000
 
 Rin Okuu 1220
 Rin Koishi 29
@@ -1231,7 +1304,7 @@ Nue Mamizou 10
 
 Nue Seija 136
 
-Nue Chimi 16x10x10x5
+Nue Chimi 16x10x5
 
 Kyouko Yoshika 24
 
@@ -1322,6 +1395,8 @@ Doremy Piece 1x10000
 
 Doremy Hecatia 5
 
+Doremy Sumi 15
+
 Sagume Piece 16
 Sagume Junko 10
 Sagume Hecatia 4
@@ -1365,6 +1440,8 @@ Narumi Mai 2
 
 Narumi Nareko 9x10x5
 
+Narumi Sumi 1x10000
+
 Mai Satono 186
 Mai Okina 1x10000
 
@@ -1384,6 +1461,8 @@ Urumi Kutaka 2
 
 Yachie Mayumi 3
 Yachie Keiki 71
+
+Yachie Momoyo 10
 
 Yachie Biten 11x10x5
 
@@ -1438,6 +1517,8 @@ Zanmu Suika 3x5
 Zanmu Yuuma 1x10000x5
 
 Zanmu Kasen 3x5
+
+Chimi Nareko 2x10x10x5x5
 
 Yuiman Ariya 15x10x10x5
 
