@@ -736,19 +736,39 @@ Lunasa Yuyuko 3
 Lunasa Wriggle 4
 Lunasa Mystia 3
 
+Lunasa Aya 37
+
+Lunasa Yuuka 2
+
+Lunasa Shizuha 1x10000
+
+Lunasa Kanako 1x10000
+
+Lunasa Satori 1x10000
+
+Lunasa Kogasa 1x10000
+
 Lunasa Benben 23
 
 Lunasa Raiko 15
 
+Lunasa Luna 64
+
 Merlin Lyrica 1x10000
 
+Merlin Yuuka 1x10000
+
 Merlin Piece 7
+
+Merlin Benben 4
 
 Merlin Raiko 2
 
 Lyrica Yatsuhashi 17
 
 Lyrica Raiko 35
+
+Lyrica Star 5
 
 Youmu Yuyuko 1552
 Youmu Ran 25
@@ -1015,20 +1035,28 @@ Shizuha Kanako 2
 
 Minoriko Hina 1x10000
 
+Minoriko Yamame 1x10000
+
+Minoriko Yatsuhashi 1x10000
+
 Hina Nitori 826
 Hina Momiji 7
 Hina Sanae 15
 
 Hina Yamame 2
+Hina Parsee 352
+
+Hina Satori 2
 
 Hina Shion 9
 
 Nitori Momiji 227
+Nitori Sanae 3
 
 Nitori Suwako 39
 Nitori Kisume 1x10000
-
-Nitori Sanae 3
+Nitori Yamame 71
+Nitori Parsee 1x10000
 
 Nitori Miko 4
 
