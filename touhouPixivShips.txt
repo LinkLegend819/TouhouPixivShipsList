@@ -953,6 +953,8 @@ Aya Hatate 893
 Aya Seija 10
 Aya Shinmy 1x10000
 
+Aya Nemuno 7
+
 Aya Kosuzu 13
 
 Aya Miyoi 3
@@ -1316,7 +1318,11 @@ Eternity Star 2
 
 Nemuno Aunn 1x10000
 
+Nemuno Mai 1x10000
+
 Nemuno Okina 1x10000
+
+Nemuno Urumi 1x10000
 
 Nemuno Sannyo 2x10
 
