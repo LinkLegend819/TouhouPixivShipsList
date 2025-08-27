@@ -946,14 +946,16 @@ Aya Yuuka 93
 Aya Komachi 43
 Aya Eiki 1x10000
 
-Aya Megumu 25
-
-Aya Hatate 893
+Aya Byakuren 2
 
 Aya Seija 10
 Aya Shinmy 1x10000
 
 Aya Nemuno 7
+
+Aya Megumu 25
+
+Aya Hatate 893
 
 Aya Kosuzu 13
 
@@ -1377,6 +1379,8 @@ Saki Yuuma 1x10000
 
 Mike Takane 2
 
+Mike Chimata 3
+
 Takane Sannyo 8x10
 
 Sannyo Misumaru 52x10x10
@@ -1386,6 +1390,7 @@ Tsukasa Momoyo 18
 
 Tsukasa Yuuma 8
 
+Megumu Chimata 65
 Megumu Momoyo 135
 
 Megumu Hatate 4
