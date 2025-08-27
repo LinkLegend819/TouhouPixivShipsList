@@ -1,0 +1,1405 @@
+Reimu
+Marisa
+Rumia
+Dai
+Cirno
+Meiling
+Koakuma
+Patchy
+Sakuya
+Remilia
+Flandre
+Letty
+Chen
+Alice
+Lily
+Lunasa
+Merlin
+Lyrica
+Youmu
+Yuyuko
+Ran
+Yukari
+Wriggle
+Mystia
+Kiene
+Tewi
+Reisen
+Eirin
+Kaguya
+Mokou
+Aya
+Medicine
+Yuuka
+Komachi
+Eiki
+Shizuha
+Minoriko
+Hina
+Nitori
+Momiji
+Sanae
+Kanako
+Suwako
+Kisume
+Yamame
+Parsee
+Yuugi
+Satori
+Rin
+Okuu
+Koishi
+Nazrin
+Kogasa
+Ichirin
+Murasa
+Shou
+Byakuren
+Nue
+Kyouko
+Yoshika
+Seiga
+Tojiko
+Futo
+Miko
+Mamizou
+Waka
+Seki
+Kagerou
+Benben
+Yatsuhashi
+Seija
+Shinmy
+Raiko
+Seiran
+Ringo
+Doremy
+Sagume
+Piece
+Junko
+Hecatia
+Eternity
+Nemuno
+Aunn
+Narumi
+Mai
+Satono
+Okina
+Eika
+Urumi
+Kutaka
+Yachie
+Mayumi
+Keiki
+Saki
+Mike
+Takane
+Sannyo
+Misumaru
+Tsukasa
+Megumu
+Chimata
+Momoyo
+Biten
+Enoko
+Chiyari
+Hisami
+Zanmu
+Ubame
+Chimi
+Nareko
+Yuiman
+Ariya
+Nina
+Suika
+Iku
+Tenshi
+Hatate
+Kokoro
+Sumi
+Shion
+Joon
+Yuuma
+Renko
+Merry
+Yorihime
+Toyohime
+Akyuu
+Tokiko
+Sunny
+Luna
+Star
+Kasen
+Kosuzu
+Miyoi
+Mizuchi
+
+Reimu Marisa 15089
+Reimu Rumia 205
+Reimu Dai 7x5
+Reimu Cirno 337
+Reimu Meiling 141
+Reimu Koakuma 3x5
+Reimu Patchy 27
+Reimu Sakuya 395
+Reimu Remilia 649
+Reimu Flandre 183
+Reimu Letty 116
+Reimu Chen 28
+Reimu Alice 1942
+Reimu Lily 1x10000
+Reimu Lunasa 15
+Reimu Lyrica 1x10000
+Reimu Youmu 146
+Reimu Yuyuko 55
+Reimu Ran 87
+Reimu Yukari 3132
+Reimu Wriggle 9
+Reimu Mystia 7
+Reimu Kiene 6
+Reimu Tewi 9
+Reimu Reisen 38
+Reimu Eirin 9
+Reimu Kaguya 21
+Reimu Mokou 44
+Reimu Aya 1372
+Reimu Medicine 6
+Reimu Yuuka 197
+Reimu Komachi 22
+Reimu Eiki 10
+Reimu Shizuha 6
+Reimu Minoriko 31
+Reimu Hina 40
+Reimu Nitori 34
+Reimu Momiji 19
+Reimu Sanae 1407
+Reimu Kanako 7
+Reimu Suwako 33
+Reimu Kisume 9
+Reimu Yamame 10
+Reimu Parsee 14
+Reimu Yuugi 6
+Reimu Satori 87
+Reimu Rin 47
+Reimu Okuu 12
+Reimu Koishi 50
+Reimu Nazrin 30
+Reimu Kogasa 190
+Reimu Murasa 8
+Reimu Shou 6
+Reimu Byakuren 11
+Reimu Nue 47
+Reimu Kyouko 7
+Reimu Yoshika 12
+Reimu Seiga 12
+Reimu Tojiko 2
+Reimu Futo 14
+Reimu Miko 42
+Reimu Mamizou 18
+Reimu Seki 42
+Reimu Kagerou 6
+Reimu Benben 1x10000
+Reimu Seija 256
+Reimu Shinmy 88
+Reimu Doremy 10
+Reimu Sagume 1x10000
+Reimu Piece 18
+Reimu Hecatia 2
+Reimu Aunn 138
+Reimu Narumi 1x10000
+Reimu Okina 5
+Reimu Yachie 10
+Reimu Mayumi 1x10000
+Reimu Keiki 3
+Reimu Misumaru 12x10
+
+Reimu Zanmu 2x5
+
+Reimu Suika 431
+Reimu Iku 5
+Reimu Tenshi 92
+Reimu Hatate 2
+Reimu Kokoro 16
+Reimu Sumi 12
+Reimu Shion 10
+Reimu Renko 22
+Reimu Merry 1x10000
+Reimu Yorihime 43
+Reimu Toyohime 5
+Reimu Akyuu 61
+Reimu Tokiko 10x5
+Reimu Sunny 5
+Reimu Luna 4
+Reimu Star 4
+Reimu Kasen 133
+Reimu Kosuzu 19
+Reimu Miyoi 4
+Reimu Mizuchi 22x10x5
+Marisa Rumia 168
+Marisa Cirno 98
+Marisa Meiling 36
+Marisa Koakuma 17x5
+Marisa Patchy 1135
+Marisa Sakuya 847
+Marisa Remilia 73
+Marisa Flandre 739
+Marisa Chen 2
+Marisa Alice 9638
+Marisa Lunasa 6
+Marisa Lyrica 3
+Marisa Youmu 142
+Marisa Yuyuko 4
+Marisa Ran 2
+Marisa Yukari 79
+Marisa Wriggle 2
+Marisa Mystia 7
+Marisa Tewi 10
+Marisa Reisen 20
+Marisa Eirin 17
+Marisa Kaguya 2
+Marisa Mokou 57
+Marisa Aya 53
+Marisa Medicine 3
+Marisa Yuuka 132
+Marisa Minoriko 2
+Marisa Hina 19
+Marisa Nitori 331
+Marisa Momiji 2
+Marisa Sanae 104
+Marisa Kanako 10
+Marisa Kisume 7
+Marisa Parsee 25
+Marisa Yuugi 12
+Marisa Satori 13
+Marisa Rin 3
+Marisa Okuu 16
+Marisa Koishi 128
+Marisa Nazrin 32
+Marisa Kogasa 27
+Marisa Murasa 35
+Marisa Shou 4
+Marisa Byakuren 58
+Marisa Nue 9
+Marisa Kyouko 1x10000
+Marisa Seiga 8
+Marisa Futo 3
+Marisa Miko 1x10000
+Marisa Mamizou 5
+Marisa Seija 16
+Marisa Raiko 1x10000
+Marisa Sagume 1x10000
+Marisa Piece 3
+Marisa Hecatia 5
+Marisa Aunn 1x10000
+Marisa Narumi 57
+Marisa Okina 23
+
+Marisa Enoko 26x10x5
+
+Marisa Nareko 8x10x5
+
+Marisa Suika 3
+Marisa Iku 6
+Marisa Tenshi 16
+Marisa Hatate 3
+Marisa Kokoro 66
+Marisa Sumi 3
+Marisa Renko 9
+Marisa Akyuu 54
+Marisa Sunny 4
+Marisa Kasen 4
+Marisa Kosuzu 155
+Rumia Dai 10x5
+Rumia Cirno 191
+Rumia Koakuma 1x10000
+Rumia Patchy 22
+Rumia Sakuya 1x10000
+Rumia Remilia 55
+Rumia Flandre 262
+Rumia Chen 1x10000
+Rumia Alice 19
+Rumia Youmu 58
+Rumia Yuyuko 1x10000
+Rumia Wriggle 59
+Rumia Mystia 328
+Rumia Mokou 35
+Rumia Medicine 2
+Rumia Shizuha 1x10000
+Rumia Hina 6
+Rumia Momiji 1x10000
+Rumia Sanae 1x10000
+Rumia Suwako 11
+Rumia Parsee 1x10000
+Rumia Satori 1x10000
+Rumia Koishi 9
+Rumia Kogasa 2
+Rumia Yoshika 8
+Rumia Miko 3
+Rumia Seki 5
+Rumia Aunn 1x10000
+Rumia Narumi 1x10000
+Rumia Okina 1x10000
+Rumia Tenshi 1x10000
+Dai Cirno 1778x5
+Dai Koakuma 110x5x5
+Dai Remilia 4x5
+Dai Flandre 11x5
+Dai Letty 4x5
+Dai Alice 6x5
+Dai Lily 86x5
+Dai Lunasa 27x5
+Dai Wriggle 2x5
+Dai Mystia 4x5
+Dai Kaguya 1x10000x5
+Dai Yuuka 9x5
+Dai Sanae 6x5
+Dai Kisume 3x5
+
+Cirno Meiling 138
+Cirno Koakuma 2x5
+Cirno Patchy 35
+Cirno Sakuya 20
+Cirno Remilia 112
+Cirno Flandre 218
+Cirno Letty 568
+Cirno Chen 111
+Cirno Alice 38
+Cirno Lily 67
+Cirno Lunasa 4
+Cirno Youmu 33
+Cirno Yuyuko 31
+Cirno Ran 11
+Cirno Yukari 59
+Cirno Wriggle 117
+Cirno Mystia 48
+Cirno Kiene 43
+Cirno Tewi 30
+Cirno Reisen 10
+Cirno Eirin 11
+Cirno Kaguya 2
+Cirno Mokou 102
+Cirno Aya 976
+Cirno Medicine 4
+Cirno Yuuka 153
+Cirno Komachi 20
+Cirno Eiki 2
+Cirno Shizuha 8
+Cirno Hina 8
+Cirno Nitori 61
+Cirno Momiji 3
+Cirno Sanae 36
+Cirno Suwako 385
+Cirno Kisume 3
+Cirno Yamame 1x10000
+Cirno Parsee 9
+Cirno Yuugi 8
+Cirno Satori 65
+Cirno Rin 16
+Cirno Okuu 133
+Cirno Koishi 29
+Cirno Nazrin 67
+Cirno Kogasa 25
+Cirno Murasa 1x10000
+Cirno Shou 2
+Cirno Byakuren 49
+Cirno Nue 10
+Cirno Kyouko 7
+Cirno Seiga 2
+Cirno Tojiko 1x10000
+Cirno Futo 28
+Cirno Miko 11
+Cirno Mamizou 9
+Cirno Waka 95
+Cirno Seki 49
+Cirno Benben 3
+Cirno Yatsuhashi 3
+Cirno Seija 18
+Cirno Shinmy 11
+Cirno Raiko 5
+Cirno Seiran 25
+Cirno Doremy 5
+Cirno Sagume 2
+Cirno Piece 69
+Cirno Junko 37
+Cirno Hecatia 1x10000
+Cirno Eternity 109
+Cirno Nemuno 3
+Cirno Aunn 1x10000
+Cirno Narumi 6
+Cirno Mai 3
+Cirno Satono 3
+Cirno Okina 12
+Cirno Urumi 1x10000
+Cirno Kutaka 2
+Cirno Yachie 1x10000
+Cirno Mayumi 1x10000
+Cirno Saki 1x10000
+Cirno Mike 3
+Cirno Takane 2
+Cirno Sannyo 1x10000x10
+Cirno Misumaru 1x10000x10
+Cirno Tsukasa 1x10000
+Cirno Megumu 3
+Cirno Chimata 1x10000
+Cirno Momoyo 2
+
+Cirno Suika 5
+Cirno Iku 17
+Cirno Tenshi 32
+Cirno Hatate 1x10000
+Cirno Kokoro 34
+Cirno Sumi 4
+Cirno Shion 1x10000
+Cirno Akyuu 5
+Cirno Sunny 3
+Cirno Kasen 11
+Cirno Kosuzu 14
+Meiling Koakuma 49x5
+Meiling Patchy 124
+Meiling Sakuya 7607
+Meiling Remilia 297
+Meiling Flandre 1274
+Meiling Chen 4
+Meiling Alice 29
+Meiling Youmu 4
+Meiling Yukari 15
+Meiling Tewi 4
+Meiling Reisen 53
+Meiling Eirin 7
+Meiling Mokou 3
+Meiling Aya 3
+Meiling Yuuka 232
+Meiling Komachi 51
+Meiling Hina 1x10000
+Meiling Nitori 4
+Meiling Momiji 26
+Meiling Sanae 5
+Meiling Parsee 1x10000
+Meiling Yuugi 48
+Meiling Rin 1x10000
+Meiling Koishi 2
+Meiling Ichirin 79
+Meiling Shou 15
+Meiling Byakuren 6
+Meiling Yoshika 81
+Meiling Seija 1x10000
+Meiling Ringo 1x10000
+Meiling Doremy 4
+Meiling Yachie 29
+
+Meiling Suika 1x10000
+Meiling Iku 7
+Meiling Tenshi 22
+Meiling Kasen 11
+Koakuma Patchy 532x5
+Koakuma Sakuya 51x5
+Koakuma Remilia 13x5
+Koakuma Flandre 43x5
+Koakuma Alice 18x5
+Koakuma Lunasa 1x10000x5
+Koakuma Koishi 1x10000x5
+Koakuma Nazrin 2
+
+Patchy Sakuya 29
+Patchy Remilia 869
+Patchy Flandre 71
+Patchy Alice 828
+Patchy Youmu 4
+Patchy Yukari 8
+Patchy Mystia 3
+Patchy Reisen 1x10000
+Patchy Kaguya 2
+Patchy Mokou 22
+Patchy Aya 10
+Patchy Hina 1x10000
+Patchy Sanae 1x10000
+Patchy Satori 147
+Patchy Okuu 15
+Patchy Koishi 2
+Patchy Nazrin 1x10000
+Patchy Iku 3
+Patchy Akyuu 1x10000
+Sakuya Remilia 6137
+Sakuya Flandre 221
+Sakuya Letty 1x10000
+Sakuya Alice 1220
+Sakuya Lily 6
+Sakuya Lyrica 1x10000
+Sakuya Youmu 433
+Sakuya Yuyuko 7
+Sakuya Yukari 6
+Sakuya Wriggle 1x10000
+Sakuya Reisen 8
+Sakuya Eirin 28
+Sakuya Kaguya 7
+Sakuya Mokou 7
+Sakuya Aya 65
+Sakuya Yuuka 20
+Sakuya Komachi 2
+Sakuya Hina 2
+Sakuya Nitori 11
+Sakuya Momiji 3
+Sakuya Sanae 37
+Sakuya Kanako 1x10000
+Sakuya Parsee 4
+Sakuya Satori 1x10000
+Sakuya Rin 2
+Sakuya Nazrin 3
+Sakuya Murasa 4
+Sakuya Seki 5
+Sakuya Kagerou 3
+
+Sakuya Mike 2
+
+Sakuya Tenshi 3
+
+Sakuya Kokoro 5
+
+Remilia Flandre 11342
+Remilia Letty 21
+Remilia Chen 1x10000
+Remilia Alice 92
+Remilia Merlin 1x10000
+Remilia Youmu 7
+
+Remilia Yuuka 1x10000
+
+Remilia Hina 3
+
+Remilia Suwako 2
+
+Remilia Satori 355
+
+Remilia Koishi 24
+
+Remilia Nue 10
+
+Remilia Kagerou 1x10000
+
+Remilia Hecatia 2
+
+Remilia Yorihime 6
+
+Flandre Letty 1x10000
+Flandre Chen 2
+Flandre Alice 112
+Flandre Lily 4
+Flandre Lunasa 5
+Flandre Youmu 72
+Flandre Yuyuko 7
+Flandre Yukari 13
+Flandre Mystia 1x10000
+Flandre Kiene 4
+Flandre Tewi 29
+Flandre Reisen 5
+Flandre Kaguya 5
+Flandre Mokou 85
+Flandre Aya 48
+Flandre Medicine 16
+Flandre Yuuka 56
+Flandre Shizuha 2
+Flandre Hina 9
+Flandre Nitori 3
+Flandre Momiji 22
+Flandre Sanae 8
+Flandre Kanako 1x10000
+Flandre Suwako 29
+Flandre Yamame 1x10000
+Flandre Parsee 2
+Flandre Yuugi 1x10000
+Flandre Satori 22
+Flandre Okuu 10
+Flandre Koishi 1463
+Flandre Nazrin 6
+Flandre Kogasa 27
+Flandre Byakuren 7
+Flandre Nue 29
+Flandre Mamizou 1x10000
+Flandre Seija 2
+Flandre Piece 11
+Flandre Junko 4
+Flandre Okina 143
+
+Flandre Suika 3
+Flandre Iku 5
+Flandre Tenshi 5
+Flandre Yuuma 139
+
+Flandre Sunny 8
+
+Letty Alice 4
+Letty Lily 73
+
+Letty Youmu 1x10000
+Letty Yuyuko 6
+
+Letty Yukari 1x10000
+
+Letty Kiene 1x10000
+
+Letty Eiki 1x10000
+
+Letty Hina 5
+
+Letty Waka 2
+
+Chen Alice 3
+Chen Lunasa 1x10000
+
+Chen Yuyuko 2
+Chen Ran 255
+Chen Yukari 49
+
+Chen Reisen 1x10000
+
+Chen Nitori 4
+
+Chen Rin 96
+
+Chen Kogasa 14
+
+Chen Mike 2
+
+Alice Lily 2
+Alice Lunasa 12
+Alice Merlin 6
+Alice Lyrica 6
+Alice Youmu 21
+Alice Yuyuko 15
+Alice Ran 9
+Alice Yukari 114
+Alice Wriggle 1x10000
+Alice Mystia 69
+Alice Kiene 2
+Alice Tewi 2
+Alice Reisen 34
+Alice Eirin 3
+Alice Kaguya 5
+Alice Mokou 29
+Alice Aya 22
+Alice Medicine 124
+Alice Yuuka 1038
+Alice Eiki 3
+Alice Shizuha 1x10000
+Alice Minoriko 1x10000
+Alice Hina 22
+Alice Nitori 47
+Alice Momiji 13
+Alice Sanae 81
+Alice Kanako 1x10000
+Alice Kisume 1x10000
+Alice Yamame 14
+Alice Parsee 31
+Alice Satori 17
+Alice Rin 3
+Alice Okuu 2
+Alice Koishi 2
+Alice Nazrin 3
+Alice Kogasa 3
+Alice Murasa 1x10000
+Alice Shou 1x10000
+Alice Byakuren 58
+Alice Seki 1x10000
+
+Alice Shinmy 5
+
+Alice Narumi 2
+
+Alice Keiki 3
+
+Alice Suika 10
+Alice Iku 35
+Alice Tenshi 9
+
+Alice Kokoro 1x10000
+
+Alice Yorihime 1x10000
+
+Alice Akyuu 1x10000
+
+Lily Eternity 2
+
+Lily Sunny 3
+Lily Star 1x10000
+
+Lunasa Merlin 9
+Lunasa Lyrica 6
+Lunasa Youmu 38
+Lunasa Yuyuko 3
+
+Lunasa Wriggle 4
+Lunasa Mystia 3
+
+Lunasa Benben 23
+
+Lunasa Raiko 15
+
+Merlin Lyrica 1x10000
+
+Merlin Piece 7
+
+Lyrica Yatsuhashi 17
+
+Lyrica Raiko 35
+
+Youmu Yuyuko 1552
+Youmu Ran 25
+Youmu Yukari 20
+Youmu Wriggle 1x10000
+
+Youmu Tewi 1x10000
+
+Youmu Yuuka 1x10000
+
+Youmu Yoshika 3
+Youmu Tojiko 3
+Youmu Futo 38
+Youmu Mamizou 1x10000
+
+Youmu Shinmy 2
+
+Youmu Hatate 2
+Youmu Kokoro 3
+
+Yuyuko Ran 13
+
+Yuyuko Kiene 1x10000
+
+Yuyuko Aya 3
+Yuyuko Medicine 1x10000
+
+Yuyuko Eiki 1x10000
+
+Yuyuko Sanae 2
+Yuyuko Kanako 3
+
+Yuyuko Yamame 15
+
+Yuyuko Yoshika 12
+
+Yuyuko Okina 1x10000
+
+Yuyuko Tenshi 9
+
+Ran Yukari 363
+
+Ran Nazrin 4
+
+Ran Mamizou 140
+
+Ran Piece 1x10000
+Ran Junko 1x10000
+
+Ran Tsukasa 15
+
+Ran Yuuma 125
+
+Yukari Kaguya 1x10000
+Yukari Mokou 5
+Yukari Aya 3
+Yukari Medicine 1x10000
+
+Yukari Kogasa 3
+
+Yukari Byakuren 5
+
+Yukari Okina 328
+
+Yukari Sumi 54
+
+Yukari Joon 5
+
+Yukari Renko 41
+Yukari Merry 100
+
+Yukari Toyohime 9
+
+Wriggle Mystia 419
+Wriggle Kiene 1x10000
+Wriggle Tewi 4
+Wriggle Eirin 1x10000
+Wriggle Mokou 25
+
+Wriggle Yuuka 647
+
+Wriggle Kisume 1x10000
+Wriggle Yamame 68
+
+Wriggle Nazrin 11
+
+Wriggle Megumu 6
+
+Mystia Kiene 2
+
+Mystia Reisen 2
+
+Mystia Mokou 147
+
+Mystia Aya 8
+
+Mystia Kyouko 564
+
+Mystia Kutaka 4
+
+Mystia Tokiko 57x5
+
+Mystia Miyoi 3
+
+Kiene Tewi 1x10000
+Kiene Reisen 3
+Kiene Eirin 159
+
+Kiene Mokou 3430
+
+Kiene Kagerou 26
+
+Kiene Tokiko 4x5
+
+Tewi Reisen 742
+Tewi Eirin 17
+Tewi Kaguya 49
+Tewi Mokou 15
+
+Tewi Yuuka 1x10000
+
+Tewi Koishi 3
+
+Tewi Seiran 1x10000
+
+Tewi Sagume 6
+
+Reisen Eirin 184
+Reisen Kaguya 220
+
+Reisen Yuuka 1x10000
+
+Reisen Eiki 2
+
+Reisen Momiji 1x10000
+Reisen Sanae 58
+
+Reisen Rin 1x10000
+
+Reisen Koishi 8
+
+Reisen Kagerou 1x10000
+
+Reisen Seiran 1x10000
+Reisen Ringo 1x10000
+
+Eirin Kaguya 781
+Eirin Mokou 18
+
+Eirin Medicine 91
+
+Eirin Junko 13
+
+Eirin Toyohime 1x10000
+
+Kaguya Mokou 3236
+
+Kaguya Junko 1x10000
+
+Kaguya Kokoro 1x10000
+
+Kaguya Yorihime 3
+Kaguya Toyohime 1x10000
+
+Kaguya Star 2
+
+Mokou Aya 2
+Mokou Eiki 1x10000
+
+Mokou Suwako 14
+
+Mokou Mamizou 3
+
+Mokou Kagerou 6
+
+Mokou Iku 3
+Mokou Tenshi 20
+Mokou Sumi 116
+
+Aya Medicine 5
+Aya Yuuka 93
+Aya Komachi 43
+Aya Eiki 1x10000
+
+Aya Megumu 25
+
+Aya Hatate 893
+
+Aya Seija 10
+Aya Shinmy 1x10000
+
+Aya Kosuzu 13
+
+Medicine Yuuka 471
+Medicine Komachi 1x10000
+Medicine Hina 99
+
+Medicine Yamame 17
+
+Medicine Kokoro 22
+
+Yuuka Komachi 10
+Yuuka Eiki 8
+Yuuka Hina 1x10000
+Yuuka Nitori 2
+
+Yuuka Sanae 34
+
+Yuuka Suwako 1x10000
+
+Yuuka Raiko 14
+
+Komachi Eiki 1770
+
+Komachi Nitori 2
+Komachi Sanae 2
+
+Komachi Kutaka 4
+
+Komachi Suika 1x10000
+
+Eiki Sanae 1x10000
+
+Eiki Satori 220
+
+Eiki Kogasa 1x10000
+
+Eiki Miko 6
+
+Eiki Hecatia 6
+
+Eiki Narumi 6
+
+Eiki Kutaka 3
+
+Eiki Kasen 10
+
+Eiki Akyuu 13
+
+Shizuha Minoriko 6545
+Shizuha Hina 10
+
+Shizuha Kanako 2
+
+Minoriko Hina 1x10000
+
+Hina Nitori 826
+Hina Momiji 7
+Hina Sanae 15
+
+Hina Yamame 2
+
+Hina Shion 9
+
+Nitori Momiji 227
+
+Nitori Suwako 39
+Nitori Kisume 1x10000
+
+Nitori Sanae 3
+
+Nitori Miko 4
+
+Nitori Waka 12
+
+Nitori Takane 70
+
+Nitori Kokoro 8
+
+Momiji Sanae 26
+
+Momiji Koishi 2
+Momiji Nazrin 26
+
+Momiji Kyouko 16
+
+Momiji Hatate 165
+
+Momiji Sumi 1x10000
+
+Sanae Kanako 84
+
+Sanae Kisume 4
+
+Sanae Parsee 6
+
+Sanae Okuu 24
+
+Sanae Seija 11
+
+Sanae Hecatia 5
+
+Sanae Biten 5x10x5
+
+Sanae Hatate 25
+Sanae Sumi 47
+
+Kanako Suwako 418
+
+Kanako Okuu 32
+
+Kanako Nazrin 1x10000
+
+Kanako Yuiman 4x10x5
+
+Suwako Parsee 1x10000
+
+Suwako Koishi 30
+
+Suwako Kogasa 1x10000
+
+Suwako Nue 1x10000
+
+Suwako Seija 1x10000
+
+Suwako Hatate 1x10000
+Suwako Kokoro 1x10000
+
+Kisume Yamame 269
+
+Kisume Yuugi 4
+
+Kisume Okuu 1x10000
+
+Kisume Tenshi 7
+
+Yamame Parsee 258
+Yamame Yuugi 1x10000
+
+Yamame Koishi 2
+
+Yamame Megumu 5
+Yamame Momoyo 5
+
+Parsee Yuugi 1589
+
+Parsee Okuu 28
+
+Yuugi Satori 29
+
+Yuugi Suika 93
+
+Yuugi Kasen 7
+
+Yuugi Mizuchi 18x10x5
+
+Satori Rin 99
+
+Satori Koishi 3094
+
+Satori Kyouko 3
+
+Satori Byakuren 5
+
+Rin Okuu 1220
+Rin Koishi 29
+Rin Nazrin 37
+
+Rin Yoshika 42
+
+Rin Zanmu 1x10000x5
+
+Koishi Murasa 16
+
+Koishi Byakuren 1x10000
+Koishi Nue 13
+
+Koishi Eika 3
+
+Koishi Kokoro 1086
+Koishi Sumi 11
+
+Koishi Joon 3
+
+Nazrin Kogasa 156
+Nazrin Ichirin 8
+
+Nazrin Shou 2357
+Nazrin Byakuren 4
+Nazrin Nue 9
+Nazrin Kyouko 21
+
+Nazrin Hecatia 1x10000
+
+Nazrin Mike 2
+
+Nazrin Kokoro 2
+
+Kogasa Ichirin 3
+
+Kogasa Byakuren 13
+
+Kogasa Mamizou 1x10000
+
+Kogasa Seki 328
+
+Ichirin Murasa 896
+Ichirin Shou 48
+Ichirin Byakuren 75
+Ichirin Nue 5
+
+Ichirin Futo 154
+
+Ichirin Kokoro 25
+
+Murasa Shou 107
+Murasa Byakuren 55
+Murasa Nue 338
+
+Shou Byakuren 368
+Shou Nue 34
+
+Byakuren Nue 68
+
+Byakuren Mamizou 1x10000
+
+Byakuren Kokoro 11
+
+Byakuren Joon 42
+
+Nue Kyouko 1x10000
+
+Nue Mamizou 10
+
+Nue Seija 136
+
+Nue Chimi 16x10x10x5
+
+Kyouko Yoshika 24
+
+Yoshika Seiga 1267
+
+Yoshika Miko 2
+
+Yoshika Seki 10
+
+Seiga Futo 84
+
+Seiga Junko 9
+
+Tojiko Futo 850
+Tojiko Miko 699
+
+Tojiko Kokoro 6
+
+Futo Miko 473
+
+Futo Piece 14
+
+Miko Mamizou 3
+
+Miko Okina 72
+
+Miko Saki 90
+
+Miko Kokoro 125
+
+Mamizou Kokoro 16
+Mamizou Sumi 7
+
+Mamizou Tokiko 3x5
+
+Mamizou Kasen 3
+Mamizou Kosuzu 87
+
+Waka Seki 64
+Waka Kagerou 385
+Waka Seija 1x10000
+Waka Shinmy 5
+
+Seki Kagerou 56
+
+Seki Seija 25
+Seki Shinmy 5
+
+Seki Ringo 22
+
+Seki Hecatia 4
+
+Benben Yatsuhashi 938
+Benben Raiko 16
+
+Benben Kokoro 2
+
+Yatsuhashi Raiko 11
+
+Yatsuhashi Kokoro 1x10000
+
+Seija Shinmy 1148
+Seija Raiko 8
+
+Seija Sagume 117
+
+Shinmy Raiko 6
+
+Shinmy Tenshi 8
+
+Shinmy Sumi 27
+Shinmy Shion 6
+
+Seiran Sagume 20
+
+Ringo Doremy 7
+
+Doremy Sagume 772
+Doremy Piece 1x10000
+
+Doremy Hecatia 5
+
+Sagume Piece 16
+Sagume Junko 10
+Sagume Hecatia 4
+
+Sagume Kutaka 4
+
+Sagume Yorihime 11
+
+Piece Junko 1x10000
+Piece Hecatia 66
+Piece Eternity 1x10000
+
+Junko Hecatia 315
+
+Junko Okina 28
+
+Hecatia Okina 1x10000
+
+Hecatia Hatate 10
+
+Eternity Nemuno 2
+
+Eternity Star 2
+
+Nemuno Aunn 1x10000
+
+Nemuno Okina 1x10000
+
+Nemuno Sannyo 2x10
+
+Aunn Narumi 44
+
+Aunn Mike 8
+
+Narumi Mai 2
+
+Narumi Nareko 9x10x5
+
+Mai Satono 186
+Mai Okina 1x10000
+
+Satono Okina 1x10000
+
+Okina Keiki 1x10000
+
+Okina Sumi 1x10000
+
+Okina Yuuma 12
+
+Eika Urumi 22
+
+Eika Keiki 21
+
+Urumi Kutaka 2
+
+Yachie Mayumi 3
+Yachie Keiki 71
+
+Yachie Biten 11x10x5
+
+Yachie Yuuma 1x10000
+
+Mayumi Keiki 464
+
+Keiki Saki 2
+
+Keiki Misumaru 3x10
+
+Keiki Chimata 23
+
+Saki Momoyo 1x10000
+
+Saki Enoko 8x10x5
+
+Saki Kokoro 8
+
+Saki Yuuma 1x10000
+
+Mike Takane 2
+
+Takane Sannyo 8x10
+
+Sannyo Misumaru 52x10x10
+
+Tsukasa Chimata 7
+Tsukasa Momoyo 18
+
+Tsukasa Yuuma 8
+
+Megumu Momoyo 135
+
+Megumu Hatate 4
+
+Chimata Momoyo 2
+
+Biten Enoko 3x10x10x5x5
+
+Chiyari Yuuma 59x10x5
+
+Hisami Zanmu 156x5x5
+
+Hisami Suika 1x10000x5
+
+Zanmu Suika 3x5
+
+Zanmu Yuuma 1x10000x5
+
+Zanmu Kasen 3x5
+
+Yuiman Ariya 15x10x10x5
+
+Yuiman Nina 1x10000x10x10x10
+
+Suika Tenshi 131
+Suika Kokoro 1x10000
+Suika Kasen 25
+Suika Miyoi 13
+Iku Tenshi 980
+Iku Shion 1x10000
+
+Iku Yorihime 1x10000
+
+Tenshi Kokoro 7
+
+Tenshi Yorihime 17
+Tenshi Toyohime 12
+
+Hatate Kosuzu 1x10000
+
+Sumi Renko 94
+Sumi Merry 11
+
+Sumi Akyuu 1x10000
+
+Sumi Kasen 6
+Sumi Kosuzu 4
+
+Shion Joon 975
+
+Renko Merry 3966
+
+Yorihime Toyohime 343
+
+Akyuu Kosuzu 494
+
+Tokiko Kosuzu 1x10000x5
+
+Sunny Luna 2
+Sunny Star 8
+
+Luna Star 10
+
+Kasen Kosuzu 3
