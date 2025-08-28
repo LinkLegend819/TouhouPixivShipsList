@@ -500,6 +500,8 @@ Koakuma Lunasa 1x10000x5
 Koakuma Koishi 1x10000x5
 Koakuma Nazrin 2
 
+Koakuma Tenshi 1x10000x5
+
 Patchy Sakuya 29
 Patchy Remilia 869
 Patchy Flandre 71
@@ -566,30 +568,49 @@ Remilia Youmu 7
 Remilia Yuyuko 12
 Remilia Ran 1x10000
 Remilia Yukari 11
+
+Remilia Mokou 5
 Remilia Aya 19
 
 Remilia Yuuka 1x10000
 
 Remilia Hina 3
-
+Remilia Nitori 1x10000
 Remilia Momiji 4
 Remilia Sanae 23
-
+Remilia Kanako 6
 Remilia Suwako 2
+
+Remilia Yamame 1x10000
 
 Remilia Satori 355
 
+Remilia Okuu 9
 Remilia Koishi 24
-
+Remilia Nazrin 2
 Remilia Kogasa 55
+
+Remilia Murasa 1x10000
+Remilia Shou 19
+Remilia Byakuren 2
 
 Remilia Nue 10
 
+Remilia Miko 16
+
 Remilia Kagerou 1x10000
+
+Remilia Seija 1x10000
+
+Remilia Sagume 3
 
 Remilia Hecatia 2
 
 Remilia Suika 4
+
+Remilia Tenshi 26
+
+Remilia Shion 1x10000
 
 Remilia Yorihime 6
 
@@ -682,6 +703,10 @@ Chen Rin 96
 
 Chen Nazrin 38
 Chen Kogasa 14
+
+Chen Shou 3
+
+Chen Seija 5
 
 Chen Mike 2
 
@@ -831,9 +856,14 @@ Youmu Parsee 3
 Youmu Yuugi 1x10000
 Youmu Satori 10
 
+Youmu Okuu 2
+Youmu Koishi 16
+
 Youmu Kogasa 9
 
 Youmu Murasa 1x10000
+
+Youmu Byakuren 1x10000
 
 Youmu Yoshika 3
 Youmu Tojiko 3
@@ -842,10 +872,14 @@ Youmu Mamizou 1x10000
 
 Youmu Shinmy 2
 
+Youmu Mayumi 14
+
 Youmu Iku 4
 Youmu Tenshi 5
 Youmu Hatate 2
 Youmu Kokoro 3
+
+Youmu Yorihime 9
 
 Youmu Kasen 5
 
@@ -864,6 +898,7 @@ Yuyuko Hina 8
 
 Yuyuko Sanae 2
 Yuyuko Kanako 3
+Yuyuko Suwako 1x10000
 
 Yuyuko Yamame 15
 
@@ -977,7 +1012,11 @@ Wriggle Nazrin 11
 
 Wriggle Mamizou 1x10000
 
+Wriggle Eternity 32
+
 Wriggle Megumu 6
+
+Wriggle Momoyo 6
 
 Wriggle Kosuzu 8
 
@@ -1023,6 +1062,8 @@ Tewi Yuuka 1x10000
 
 Tewi Koishi 3
 
+Tewi Seija 2
+
 Tewi Seiran 1x10000
 
 Tewi Sagume 6
@@ -1042,6 +1083,8 @@ Reisen Sanae 58
 Reisen Rin 1x10000
 
 Reisen Koishi 8
+
+Reisen Shou 11
 
 Reisen Kagerou 1x10000
 
@@ -1186,6 +1229,8 @@ Yuuka Sanae 34
 Yuuka Kanako 3
 Yuuka Suwako 1x10000
 
+Yuuka Yuugi 1x10000
+
 Yuuka Kogasa 19
 
 Yuuka Raiko 14
@@ -1197,6 +1242,8 @@ Komachi Eiki 1770
 
 Komachi Nitori 2
 Komachi Sanae 2
+
+Komachi Yuugi 2
 
 Komachi Kogasa 2
 
@@ -1260,6 +1307,8 @@ Hina Nitori 826
 Hina Momiji 7
 Hina Sanae 15
 
+Hina Suwako 6
+
 Hina Yamame 2
 Hina Parsee 352
 
@@ -1281,6 +1330,7 @@ Nitori Suwako 39
 Nitori Kisume 1x10000
 Nitori Yamame 71
 Nitori Parsee 1x10000
+Nitori Yuugi 2
 
 Nitori Koishi 3
 
@@ -1379,6 +1429,8 @@ Kanako Kokoro 34
 
 Suwako Parsee 1x10000
 
+Suwako Satori 6
+
 Suwako Koishi 30
 
 Suwako Kogasa 1x10000
@@ -1386,6 +1438,10 @@ Suwako Kogasa 1x10000
 Suwako Nue 1x10000
 
 Suwako Seija 1x10000
+
+Suwako Junko 1x10000
+
+Suwako Okina 6
 
 Suwako Tenshi 2
 Suwako Hatate 1x10000
@@ -1427,6 +1483,9 @@ Parsee Tenshi 10
 
 Yuugi Satori 29
 
+Yuugi Seija 3
+Yuugi Shinmy 7
+
 Yuugi Suika 93
 
 Yuugi Kasen 7
@@ -1464,6 +1523,7 @@ Rin Zanmu 1x10000x5
 Okuu Saki 3
 
 Okuu Iku 3
+Okuu Tenshi 115
 
 Koishi Kogasa 67
 
@@ -1536,6 +1596,12 @@ Murasa Nue 338
 
 Shou Byakuren 368
 Shou Nue 34
+
+Shou Kyouko 10
+
+Shou Futo 8
+
+Shou Seija 15
 
 Shou Suika 2
 
@@ -1634,6 +1700,10 @@ Seija Raiko 8
 
 Seija Sagume 117
 
+Seija Eternity 1x10000
+
+Seija Tenshi 4
+
 Shinmy Raiko 6
 
 Shinmy Suika 13
@@ -1679,6 +1749,9 @@ Hecatia Okina 1x10000
 Hecatia Hatate 10
 
 Eternity Nemuno 2
+Eternity Aunn 2
+
+Eternity Okina 58
 
 Eternity Star 2
 
@@ -1694,6 +1767,8 @@ Nemuno Takane 2
 Nemuno Sannyo 2x10
 
 Aunn Narumi 44
+
+Aunn Okina 1x10000
 
 Aunn Mike 8
 
@@ -1712,6 +1787,10 @@ Satono Okina 1x10000
 
 Okina Keiki 1x10000
 
+Okina Megumu 2
+
+Okina Momoyo 1x10000
+
 Okina Sumi 1x10000
 
 Okina Yuuma 12
@@ -1724,8 +1803,13 @@ Urumi Kutaka 2
 
 Yachie Mayumi 3
 Yachie Keiki 71
+Yachie Saki 378
+
+Yachie Sannyo 2x10
 
 Yachie Momoyo 10
+
+Yachie Zanmu 1x10000x5
 
 Yachie Biten 11x10x5
 
@@ -1742,6 +1826,8 @@ Keiki Chimata 23
 Saki Momoyo 1x10000
 
 Saki Enoko 8x10x5
+
+Saki Zanmu 1x10000x5
 
 Saki Kokoro 8
 
@@ -1768,6 +1854,8 @@ Megumu Hatate 4
 Chimata Momoyo 2
 
 Biten Enoko 3x10x10x5x5
+
+Enoko Zanmu 2x10x5x5
 
 Chiyari Yuuma 59x10x5
 
