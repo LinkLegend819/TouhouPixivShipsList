@@ -1220,7 +1220,7 @@ Shizuha Momiji 22
 
 Shizuha Kanako 2
 
-Shizuha Nazrin 1
+Shizuha Nazrin 1x10000
 
 Minoriko Hina 1x10000
 
@@ -1802,5 +1802,6 @@ Sunny Luna 2
 Sunny Star 8
 
 Luna Star 10
+
 
 Kasen Kosuzu 3
