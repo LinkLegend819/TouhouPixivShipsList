@@ -678,6 +678,7 @@ Chen Parsee 4
 
 Chen Rin 96
 
+Chen Nazrin 38
 Chen Kogasa 14
 
 Chen Mike 2
@@ -1218,6 +1219,8 @@ Shizuha Hina 10
 Shizuha Momiji 22
 
 Shizuha Kanako 2
+
+Shizuha Nazrin 1
 
 Minoriko Hina 1x10000
 
