@@ -573,7 +573,6 @@ Remilia Yuuka 1x10000
 Remilia Hina 3
 
 Remilia Momiji 4
-
 Remilia Sanae 23
 
 Remilia Suwako 2
@@ -581,6 +580,8 @@ Remilia Suwako 2
 Remilia Satori 355
 
 Remilia Koishi 24
+
+Remilia Kogasa 55
 
 Remilia Nue 10
 
@@ -737,12 +738,23 @@ Alice Yorihime 1x10000
 
 Alice Akyuu 1x10000
 
+Lily Youmu 16
+
 Lily Reisen 1x10000
+
+Lily Yuuka 18
+
+Lily Kogasa 5
+
+Lily Piece 3
 
 Lily Eternity 2
 
+Lily Aunn 1x10000
+
 Lily Tenshi 1x10000
 
+Lily Tokiko 1x10000x5
 Lily Sunny 3
 Lily Star 1x10000
 
@@ -804,6 +816,8 @@ Youmu Sanae 166
 
 Youmu Parsee 3
 
+Youmu Kogasa 9
+
 Youmu Yoshika 3
 Youmu Tojiko 3
 Youmu Futo 38
@@ -811,6 +825,7 @@ Youmu Mamizou 1x10000
 
 Youmu Shinmy 2
 
+Youmu Iku 4
 Youmu Tenshi 5
 Youmu Hatate 2
 Youmu Kokoro 3
@@ -1030,6 +1045,8 @@ Kaguya Mokou 3236
 
 Kaguya Sanae 1x10000
 
+Kaguya Nue 1x10000
+
 Kaguya Junko 1x10000
 
 Kaguya Kokoro 1x10000
@@ -1115,6 +1132,8 @@ Medicine Hina 99
 
 Medicine Yamame 17
 
+Medicine Kogasa 18
+
 Medicine Kokoro 22
 
 Yuuka Komachi 10
@@ -1126,6 +1145,8 @@ Yuuka Sanae 34
 Yuuka Kanako 3
 Yuuka Suwako 1x10000
 
+Yuuka Kogasa 19
+
 Yuuka Raiko 14
 
 Yuuka Suika 5
@@ -1135,6 +1156,10 @@ Komachi Eiki 1770
 
 Komachi Nitori 2
 Komachi Sanae 2
+
+Komachi Kogasa 2
+
+Komachi Nue 2
 
 Komachi Urumi 5
 Komachi Kutaka 4
@@ -1147,9 +1172,15 @@ Komachi Kasen 96
 
 Eiki Sanae 1x10000
 
+Eiki Parsee 5
+
 Eiki Satori 220
 
 Eiki Kogasa 1x10000
+
+Eiki Byakuren 92
+
+Eiki Seiga 2
 
 Eiki Miko 6
 
@@ -1158,6 +1189,8 @@ Eiki Hecatia 6
 Eiki Narumi 6
 
 Eiki Kutaka 3
+
+Eiki Tenshi 1x10000
 
 Eiki Kasen 10
 
@@ -1174,6 +1207,10 @@ Minoriko Hina 1x10000
 
 Minoriko Yamame 1x10000
 
+Minoriko Kogasa 1x10000
+
+Minoriko Nue 2
+
 Minoriko Yatsuhashi 1x10000
 
 Hina Nitori 826
@@ -1185,7 +1222,11 @@ Hina Parsee 352
 
 Hina Satori 2
 
+Hina Kogasa 1x10000
+
 Hina Suika 1x10000
+
+Hina Tenshi 25
 
 Hina Shion 9
 
@@ -1198,6 +1239,8 @@ Nitori Yamame 71
 Nitori Parsee 1x10000
 
 Nitori Koishi 3
+
+Nitori Kogasa 1x10000
 
 Nitori Miko 4
 
@@ -1305,10 +1348,14 @@ Suwako Hatate 1x10000
 Suwako Kokoro 1x10000
 
 Kisume Yamame 269
-
+Kisume Parsee 11
 Kisume Yuugi 4
 
 Kisume Okuu 1x10000
+
+Kisume Kogasa 5
+
+Kisume Shinmy 21
 
 Kisume Tenshi 7
 
@@ -1317,6 +1364,8 @@ Yamame Yuugi 1x10000
 
 Yamame Koishi 2
 
+Yamame Nue 5
+
 Yamame Megumu 5
 Yamame Momoyo 5
 
@@ -1324,7 +1373,13 @@ Parsee Yuugi 1589
 
 Parsee Okuu 28
 
+Parsee Kogasa 5
+
+Parsee Nue 23
+
 Parsee Suika 8
+
+Parsee Tenshi 10
 
 Yuugi Satori 29
 
@@ -1338,9 +1393,11 @@ Satori Rin 99
 
 Satori Koishi 3094
 
-Satori Kyouko 3
+Satori Kogasa 10
 
 Satori Byakuren 5
+
+Satori Kyouko 3
 
 Satori Suika 26
 
@@ -1354,10 +1411,13 @@ Satori Kasen 8
 Rin Okuu 1220
 Rin Koishi 29
 Rin Nazrin 37
+Rin Kogasa 1x10000
 
 Rin Yoshika 42
 
 Rin Zanmu 1x10000x5
+
+Koishi Kogasa 67
 
 Koishi Murasa 16
 
@@ -1365,6 +1425,8 @@ Koishi Byakuren 1x10000
 Koishi Nue 13
 
 Koishi Futo 1x10000
+
+Koishi Seija 18
 
 Koishi Eika 3
 
@@ -1395,11 +1457,16 @@ Kogasa Ichirin 3
 
 Kogasa Byakuren 13
 Kogasa Nue 392
+Kogasa Kyouko 37
+Kogasa Yoshika 30
+Kogasa Seiga 5
+Kogasa Tojiko 1x10000
 
 Kogasa Mamizou 1x10000
 
 Kogasa Seki 328
 
+Kogasa Shinmy 1x10000
 Kogasa Raiko 3
 
 Kogasa Tenshi 10
@@ -1443,6 +1510,8 @@ Nue Seija 136
 Nue Chimi 16x10x5
 
 Nue Suika 1x10000
+
+Nue Joon 1x10000
 
 Kyouko Yoshika 24
 
