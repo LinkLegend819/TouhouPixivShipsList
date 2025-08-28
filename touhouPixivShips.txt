@@ -1060,6 +1060,8 @@ Mystia Aya 8
 
 Mystia Sanae 3
 
+Mystia Okuu 8
+
 Mystia Kyouko 564
 
 Mystia Kutaka 4
@@ -1098,6 +1100,8 @@ Tewi Nitori 8
 
 Tewi Koishi 3
 Tewi Nazrin 13
+
+Tewi Kagerou 59
 
 Tewi Seija 2
 
@@ -1433,9 +1437,9 @@ Momiji Koishi 2
 Momiji Nazrin 26
 Momiji Kogasa 2
 
-Momiji Futo 8
-
 Momiji Kyouko 16
+
+Momiji Futo 8
 
 Momiji Mamizou 1x10000
 
@@ -1626,6 +1630,8 @@ Okuu Saki 3
 
 Okuu Iku 3
 Okuu Tenshi 115
+
+Okuu Sunny 2
 
 Koishi Nazrin 1x10000
 Koishi Kogasa 67
