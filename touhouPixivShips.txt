@@ -662,6 +662,7 @@ Letty Waka 2
 Chen Alice 3
 Chen Lunasa 1x10000
 
+Chen Youmu 18
 Chen Yuyuko 2
 Chen Ran 255
 Chen Yukari 49
@@ -677,7 +678,6 @@ Chen Parsee 4
 
 Chen Rin 96
 
-Chen Nazrin 38
 Chen Kogasa 14
 
 Chen Mike 2
@@ -807,10 +807,16 @@ Youmu Yukari 20
 Youmu Wriggle 1x10000
 
 Youmu Tewi 1x10000
+Youmu Reisen 1032
+
+Youmu Mokou 21
 
 Youmu Aya 110
 Youmu Medicine 4
 Youmu Yuuka 1x10000
+Youmu Komachi 13
+
+Youmu Hina 1x10000
 
 Youmu Momiji 60
 Youmu Sanae 166
@@ -818,6 +824,8 @@ Youmu Sanae 166
 Youmu Parsee 3
 
 Youmu Kogasa 9
+
+Youmu Murasa 1x10000
 
 Youmu Yoshika 3
 Youmu Tojiko 3
@@ -1050,6 +1058,8 @@ Kaguya Nue 1x10000
 
 Kaguya Junko 1x10000
 
+Kaguya Tenshi 2
+
 Kaguya Kokoro 1x10000
 
 Kaguya Yorihime 3
@@ -1227,6 +1237,7 @@ Hina Kogasa 1x10000
 
 Hina Suika 1x10000
 
+Hina Iku 17
 Hina Tenshi 25
 
 Hina Shion 9
@@ -1783,6 +1794,5 @@ Sunny Luna 2
 Sunny Star 8
 
 Luna Star 10
-
 
 Kasen Kosuzu 3
