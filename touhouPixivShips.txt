@@ -548,11 +548,15 @@ Sakuya Satori 1x10000
 Sakuya Rin 2
 Sakuya Nazrin 3
 Sakuya Murasa 4
+Sakuya Waka 1x10000
 Sakuya Seki 5
 Sakuya Kagerou 3
 
+Sakuya Shinmy 8
+
 Sakuya Mike 2
 
+Sakuya Iku 6
 Sakuya Tenshi 3
 
 Sakuya Kokoro 5
@@ -674,9 +678,18 @@ Letty Yukari 1x10000
 
 Letty Kiene 1x10000
 
+Letty Mokou 9
+
+Letty Yuuka 197
+
 Letty Eiki 1x10000
 
+Letty Minoriko 5
 Letty Hina 5
+
+Letty Parsee 1x10000
+
+Letty Nazrin 2
 
 Letty Waka 2
 
@@ -705,6 +718,8 @@ Chen Nazrin 38
 Chen Kogasa 14
 
 Chen Shou 3
+
+Chen Mamizou 10
 
 Chen Seija 5
 
@@ -888,11 +903,15 @@ Yuyuko Yukari 1799
 Yuyuko Mystia 76
 Yuyuko Kiene 1x10000
 Yuyuko Eirin 28
-
+Yuyuko Kaguya 8
+Yuyuko Mokou 5
 Yuyuko Aya 3
 Yuyuko Medicine 1x10000
-
+Yuyuko Yuuka 19
+Yuyuko Komachi 9
 Yuyuko Eiki 1x10000
+
+Yuyuko Shizuha 1x10000
 
 Yuyuko Hina 8
 
@@ -901,8 +920,16 @@ Yuyuko Kanako 3
 Yuyuko Suwako 1x10000
 
 Yuyuko Yamame 15
+Yuyuko Parsee 1x10000
+
+Yuyuko Satori 10
+
+Yuyuko Koishi 2
 
 Yuyuko Yoshika 12
+Yuyuko Seiga 1x10000
+
+Yuyuko Waka 4
 
 Yuyuko Okina 1x10000
 
@@ -1003,8 +1030,11 @@ Wriggle Aya 2
 
 Wriggle Yuuka 647
 
+Wriggle Nitori 1x10000
+
 Wriggle Kisume 1x10000
 Wriggle Yamame 68
+Wriggle Parsee 1x10000
 
 Wriggle Koishi 4
 
@@ -1046,7 +1076,11 @@ Kiene Mokou 3430
 
 Kiene Eiki 1x10000
 
+Kiene Nitori 4
+
 Kiene Kagerou 26
+
+Kiene Tenshi 1x10000
 
 Kiene Sumi 1x10000
 
@@ -1060,7 +1094,10 @@ Tewi Mokou 15
 Tewi Medicine 61
 Tewi Yuuka 1x10000
 
+Tewi Nitori 8
+
 Tewi Koishi 3
+Tewi Nazrin 13
 
 Tewi Seija 2
 
@@ -1071,7 +1108,7 @@ Tewi Sagume 6
 Reisen Eirin 184
 Reisen Kaguya 220
 Reisen Mokou 99
-Reimu Aya 4
+Reisen Aya 4
 Reisen Medicine 11
 Reisen Yuuka 1x10000
 
@@ -1083,7 +1120,9 @@ Reisen Sanae 58
 Reisen Rin 1x10000
 
 Reisen Koishi 8
+Reisen Nazrin 1x10000
 
+Reisen Murasa 5
 Reisen Shou 11
 
 Reisen Kagerou 1x10000
@@ -1091,7 +1130,12 @@ Reisen Kagerou 1x10000
 Reisen Seiran 1x10000
 Reisen Ringo 1x10000
 
+Reisen Piece 2
 Reisen Junko 344
+
+Reisen Aunn 1x10000
+
+Reisen Kosuzu 1x10000
 
 Eirin Kaguya 781
 Eirin Mokou 18
@@ -1132,6 +1176,8 @@ Kaguya Star 2
 Mokou Aya 2
 Mokou Eiki 1x10000
 
+Mokou Nitori 20
+
 Mokou Sanae 1x10000
 
 Mokou Suwako 14
@@ -1143,8 +1189,11 @@ Mokou Satori 2
 Mokou Okuu 12
 Mokou Koishi 8
 
+Mokou Byakuren 2
+
 Mokou Tojiko 24
 Mokou Futo 11
+Mokou Miko 10
 
 Mokou Mamizou 3
 
@@ -1213,8 +1262,11 @@ Aya Miyoi 3
 Medicine Yuuka 471
 Medicine Komachi 1x10000
 Medicine Hina 99
+Medicine Nitori 2
 
 Medicine Yamame 17
+
+Medicine Koishi 32
 
 Medicine Kogasa 18
 
@@ -1229,7 +1281,11 @@ Yuuka Sanae 34
 Yuuka Kanako 3
 Yuuka Suwako 1x10000
 
+Yuuka Parsee 12
 Yuuka Yuugi 1x10000
+Yuuka Satori 14
+
+Yuuka Koishi 4
 
 Yuuka Kogasa 19
 
@@ -1243,7 +1299,12 @@ Komachi Eiki 1770
 Komachi Nitori 2
 Komachi Sanae 2
 
+Komachi Parsee 2
 Komachi Yuugi 2
+
+Komachi Rin 22
+
+Komachi Koishi 7
 
 Komachi Kogasa 2
 
@@ -1257,6 +1318,7 @@ Komachi Iku 1x10000
 Komachi Tenshi 10
 
 Komachi Kasen 96
+Komachi Kosuzu 2
 
 Eiki Sanae 1x10000
 
@@ -1286,14 +1348,21 @@ Eiki Akyuu 13
 
 Shizuha Minoriko 6545
 Shizuha Hina 10
-
+Shizuha Nitori 1x10000
 Shizuha Momiji 22
 
 Shizuha Kanako 2
 
+Shizuha Parsee 1x10000
+
+Shizuha Satori 1x10000
+
 Shizuha Nazrin 1x10000
 
+Shizuha Aunn 14
+
 Minoriko Hina 1x10000
+Minoriko Nitori 2
 
 Minoriko Yamame 1x10000
 
@@ -1313,6 +1382,7 @@ Hina Yamame 2
 Hina Parsee 352
 
 Hina Satori 2
+Hina Rin 13
 
 Hina Kogasa 1x10000
 
@@ -1325,7 +1395,7 @@ Hina Shion 9
 
 Nitori Momiji 227
 Nitori Sanae 3
-
+Nitori Kanako 1x10000
 Nitori Suwako 39
 Nitori Kisume 1x10000
 Nitori Yamame 71
@@ -1336,14 +1406,19 @@ Nitori Koishi 3
 
 Nitori Kogasa 1x10000
 
+Nitori Murasa 33
+
+Nitori Futo 19
 Nitori Miko 4
 
 Nitori Waka 12
+Nitori Seki 1x10000
 
 Nitori Takane 70
 
 Nitori Suika 8
 
+Nitori Hatate 28
 Nitori Kokoro 8
 
 Momiji Sanae 26
@@ -1419,9 +1494,13 @@ Sanae Kasen 5
 
 Kanako Suwako 418
 
+Kanako Satori 1x10000
+
 Kanako Okuu 32
 
 Kanako Nazrin 1x10000
+
+Kanako Byakuren 1x10000
 
 Kanako Yuiman 4x10x5
 
@@ -1461,6 +1540,7 @@ Kisume Tenshi 7
 
 Yamame Parsee 258
 Yamame Yuugi 1x10000
+Yamame Satori 62
 
 Yamame Koishi 2
 
@@ -1470,12 +1550,22 @@ Yamame Megumu 5
 Yamame Momoyo 5
 
 Parsee Yuugi 1589
-
+Parsee Satori 214
+Parsee Rin 15
 Parsee Okuu 28
-
+Parsee Koishi 43
+Parsee Nazrin 3
 Parsee Kogasa 5
 
+Parsee Murasa 43
+
+Parsee Byakuren 8
 Parsee Nue 23
+
+Parsee Seiga 2
+Parsee Tojiko 1x10000
+
+Parsee Miko 8
 
 Parsee Suika 8
 
@@ -1498,9 +1588,16 @@ Satori Koishi 3094
 
 Satori Kogasa 10
 
+Satori Murasa 10
+
 Satori Byakuren 5
 
 Satori Kyouko 3
+
+Satori Futo 1x10000
+Satori Miko 1x10000
+
+Satori Sagume 25
 
 Satori Suika 26
 
@@ -1508,6 +1605,7 @@ Satori Tenshi 10
 
 Satori Kokoro 25
 Satori Sumi 1x10000
+Satori Shion 29
 
 Satori Kasen 8
 
@@ -1518,13 +1616,18 @@ Rin Kogasa 1x10000
 
 Rin Yoshika 42
 
+Rin Waka 7
+
 Rin Zanmu 1x10000x5
+
+Okuu Koishi 41
 
 Okuu Saki 3
 
 Okuu Iku 3
 Okuu Tenshi 115
 
+Koishi Nazrin 1x10000
 Koishi Kogasa 67
 
 Koishi Murasa 16
@@ -1532,9 +1635,14 @@ Koishi Murasa 16
 Koishi Byakuren 1x10000
 Koishi Nue 13
 
+Koishi Tojiko 2
 Koishi Futo 1x10000
 
 Koishi Seija 18
+
+Koishi Doremy 1x10000
+Koishi Sagume 2
+Koishi Piece 1x10000
 
 Koishi Eika 3
 
@@ -1547,11 +1655,18 @@ Koishi Joon 3
 
 Nazrin Kogasa 156
 Nazrin Ichirin 8
-
+Nazrin Murasa 9
 Nazrin Shou 2357
 Nazrin Byakuren 4
 Nazrin Nue 9
 Nazrin Kyouko 21
+Nazrin Yoshika 1x10000
+
+Nazrin Tojiko 8
+
+Nazrin Miko 2
+
+Nazrin Shinmy 3
 
 Nazrin Hecatia 1x10000
 
@@ -1585,8 +1700,11 @@ Ichirin Murasa 896
 Ichirin Shou 48
 Ichirin Byakuren 75
 Ichirin Nue 5
+Ichirin Kyouko 6
 
 Ichirin Futo 154
+
+Ichirin Iku 3
 
 Ichirin Kokoro 25
 
@@ -1606,7 +1724,11 @@ Shou Seija 15
 Shou Suika 2
 
 Byakuren Nue 68
+Byakuren Kyouko 7
 
+Byakuren Seiga 2
+Byakuren Futo 4
+Byakuren Miko 518
 Byakuren Mamizou 1x10000
 
 Byakuren Tenshi 3
@@ -1629,15 +1751,26 @@ Nue Joon 1x10000
 
 Kyouko Yoshika 24
 
-Yoshika Seiga 1267
+Kyouko Mamizou 15
 
+Kyouko Sagume 2
+
+Kyouko Aunn 16
+
+Kyouko Kutaka 1x10000
+
+Yoshika Seiga 1267
+Yoshika Tojiko 6
+Yoshika Futo 6
 Yoshika Miko 2
 
 Yoshika Seki 10
 
 Yoshika Kasen 50
 
+Seiga Tojiko 84
 Seiga Futo 84
+Seiga Miko 146
 
 Seiga Junko 9
 
@@ -1645,6 +1778,9 @@ Seiga Kasen 172
 
 Tojiko Futo 850
 Tojiko Miko 699
+
+Tojiko Iku 20
+Tojiko Tenshi 1x10000
 
 Tojiko Kokoro 6
 
@@ -1717,9 +1853,15 @@ Raiko Nemuno 3
 
 Raiko Kokoro 3
 
+Seiran Ringo 478
+
 Seiran Sagume 20
 
+Seiran Saki 7
+
 Ringo Doremy 7
+
+Ringo Kosuzu 1x10000
 
 Doremy Sagume 772
 Doremy Piece 1x10000
@@ -1776,6 +1918,8 @@ Aunn Suika 3
 
 Narumi Mai 2
 
+Narumi Eika 13
+
 Narumi Nareko 9x10x5
 
 Narumi Sumi 1x10000
@@ -1800,6 +1944,8 @@ Eika Urumi 22
 Eika Keiki 21
 
 Urumi Kutaka 2
+
+Kutaka Saki 3
 
 Yachie Mayumi 3
 Yachie Keiki 71
@@ -1885,6 +2031,8 @@ Iku Shion 1x10000
 Iku Yorihime 1x10000
 
 Tenshi Kokoro 7
+
+Tenshi Shion 409
 
 Tenshi Yorihime 17
 Tenshi Toyohime 12
