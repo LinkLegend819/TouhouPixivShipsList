@@ -706,6 +706,8 @@ Chen Kogasa 14
 
 Chen Shou 3
 
+Chen Mamizou 10
+
 Chen Seija 5
 
 Chen Mike 2
@@ -1003,8 +1005,11 @@ Wriggle Aya 2
 
 Wriggle Yuuka 647
 
+Wriggle Nitori 1x10000
+
 Wriggle Kisume 1x10000
 Wriggle Yamame 68
+Wriggle Parsee 1x10000
 
 Wriggle Koishi 4
 
@@ -1029,6 +1034,8 @@ Mystia Mokou 147
 Mystia Aya 8
 
 Mystia Sanae 3
+
+Mystia Okuu 8
 
 Mystia Kyouko 564
 
@@ -1061,6 +1068,8 @@ Tewi Medicine 61
 Tewi Yuuka 1x10000
 
 Tewi Koishi 3
+
+Tewi Kagerou 59
 
 Tewi Seija 2
 
@@ -1358,9 +1367,9 @@ Momiji Koishi 2
 Momiji Nazrin 26
 Momiji Kogasa 2
 
-Momiji Futo 8
-
 Momiji Kyouko 16
+
+Momiji Futo 8
 
 Momiji Mamizou 1x10000
 
@@ -1520,10 +1529,14 @@ Rin Yoshika 42
 
 Rin Zanmu 1x10000x5
 
+Okuu Koishi 41
+
 Okuu Saki 3
 
 Okuu Iku 3
 Okuu Tenshi 115
+
+Okuu Sunny 2
 
 Koishi Kogasa 67
 
