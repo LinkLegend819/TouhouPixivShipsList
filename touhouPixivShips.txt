@@ -817,9 +817,12 @@ Youmu Yuuka 1x10000
 Youmu Komachi 13
 
 Youmu Hina 1x10000
+Youmu Nitori 8
 
 Youmu Momiji 60
 Youmu Sanae 166
+
+Youmu Suwako 4
 
 Youmu Parsee 3
 
