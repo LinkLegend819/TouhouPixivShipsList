@@ -688,6 +688,8 @@ Chen Yuyuko 2
 Chen Ran 255
 Chen Yukari 49
 
+Chen Wriggle 1x10000
+
 Chen Tewi 83
 Chen Reisen 1x10000
 
@@ -881,6 +883,7 @@ Yuyuko Ran 13
 Yuyuko Yukari 1799
 Yuyuko Mystia 76
 Yuyuko Kiene 1x10000
+Yuyuko Eirin 28
 
 Yuyuko Aya 3
 Yuyuko Medicine 1x10000
@@ -986,7 +989,7 @@ Yukari Toyohime 9
 Yukari Luna 7
 Yukari Kasen 4
 
-Wriggle Mystia 419
+Wriggle Mystia 420
 Wriggle Kiene 1x10000
 Wriggle Tewi 4
 Wriggle Eirin 1x10000
@@ -1002,10 +1005,14 @@ Wriggle Koishi 4
 
 Wriggle Nazrin 11
 
+Wriggle Mamizou 1x10000
+
 Wriggle Megumu 6
 
-Mystia Kiene 2
+Wriggle Kosuzu 8
 
+Mystia Kiene 2
+Mystia Tei 1x10000
 Mystia Reisen 2
 
 Mystia Mokou 147
@@ -1025,7 +1032,7 @@ Mystia Miyoi 3
 Kiene Tewi 1x10000
 Kiene Reisen 3
 Kiene Eirin 159
-
+Kiene Kaguya 110
 Kiene Mokou 3430
 
 Kiene Eiki 1x10000
@@ -1080,6 +1087,8 @@ Eirin Medicine 91
 
 Eirin Sanae 4
 
+Eirin Mamizou 2
+
 Eirin Junko 13
 
 Eirin Kokoro 1x10000
@@ -1092,6 +1101,8 @@ Kaguya Sanae 1x10000
 
 Kaguya Nue 1x10000
 
+Kaguya Shinmy 20
+
 Kaguya Junko 1x10000
 
 Kaguya Tenshi 2
@@ -1100,6 +1111,8 @@ Kaguya Kokoro 1x10000
 
 Kaguya Yorihime 3
 Kaguya Toyohime 1x10000
+
+Kaguya Hatate 1x10000
 
 Kaguya Star 2
 
@@ -1110,6 +1123,16 @@ Mokou Sanae 1x10000
 
 Mokou Suwako 14
 
+Mokou Parsee 1x10000
+
+Mokou Satori 2
+
+Mokou Okuu 12
+Mokou Koishi 8
+
+Mokou Tojiko 24
+Mokou Futo 11
+
 Mokou Mamizou 3
 
 Mokou Kagerou 6
@@ -1119,6 +1142,7 @@ Mokou Shinmy 15
 Mokou Iku 3
 Mokou Tenshi 20
 Mokou Sumi 116
+Mokou Shion 7
 
 Mokou Akyuu 34
 
@@ -1440,7 +1464,7 @@ Yuugi Kasen 7
 Yuugi Mizuchi 18x10x5
 
 Satori Rin 99
-
+Satori Okuu 65
 Satori Koishi 3094
 
 Satori Kogasa 10
@@ -1467,6 +1491,9 @@ Rin Yoshika 42
 
 Rin Zanmu 1x10000x5
 
+Okuu Saki 3
+
+Okuu Iku 3
 Okuu Tenshi 115
 
 Koishi Kogasa 67
