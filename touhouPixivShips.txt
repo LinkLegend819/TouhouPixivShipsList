@@ -680,6 +680,7 @@ Chen Parsee 4
 
 Chen Rin 96
 
+Chen Nazrin 38
 Chen Kogasa 14
 
 Chen Mike 2
@@ -1451,6 +1452,8 @@ Koishi Sumi 11
 
 Koishi Joon 3
 
+Nazrin Shizuha 1x10000
+
 Nazrin Kogasa 156
 Nazrin Ichirin 8
 
@@ -1798,3 +1801,4 @@ Sunny Star 8
 Luna Star 10
 
 Kasen Kosuzu 3
+
