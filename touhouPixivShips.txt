@@ -677,6 +677,7 @@ Chen Parsee 4
 
 Chen Rin 96
 
+Chen Nazrin 38
 Chen Kogasa 14
 
 Chen Mike 2
@@ -1782,5 +1783,6 @@ Sunny Luna 2
 Sunny Star 8
 
 Luna Star 10
+
 
 Kasen Kosuzu 3
