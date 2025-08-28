@@ -296,8 +296,6 @@ Marisa Okina 23
 
 Marisa Enoko 26x10x5
 
-test message
-
 Marisa Nareko 8x10x5
 
 Marisa Suika 3
@@ -820,9 +818,12 @@ Youmu Yuuka 1x10000
 Youmu Komachi 13
 
 Youmu Hina 1x10000
+Youmu Nitori 8
 
 Youmu Momiji 60
 Youmu Sanae 166
+
+Youmu Suwako 4
 
 Youmu Parsee 3
 
@@ -1801,4 +1802,3 @@ Sunny Star 8
 Luna Star 10
 
 Kasen Kosuzu 3
-
