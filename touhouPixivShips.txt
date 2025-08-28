@@ -826,6 +826,8 @@ Youmu Sanae 166
 Youmu Suwako 4
 
 Youmu Parsee 3
+Youmu Yuugi 1x10000
+Youmu Satori 10
 
 Youmu Kogasa 9
 
@@ -1218,6 +1220,8 @@ Shizuha Momiji 22
 
 Shizuha Kanako 2
 
+Shizuha Nazrin 1x10000
+
 Minoriko Hina 1x10000
 
 Minoriko Yamame 1x10000
@@ -1452,8 +1456,6 @@ Koishi Kokoro 1086
 Koishi Sumi 11
 
 Koishi Joon 3
-
-Nazrin Shizuha 1x10000
 
 Nazrin Kogasa 156
 Nazrin Ichirin 8
@@ -1800,5 +1802,6 @@ Sunny Luna 2
 Sunny Star 8
 
 Luna Star 10
+
 
 Kasen Kosuzu 3
