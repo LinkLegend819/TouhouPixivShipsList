@@ -825,6 +825,8 @@ Youmu Sanae 166
 Youmu Suwako 4
 
 Youmu Parsee 3
+Youmu Yuugi 1x10000
+Youmu Satori 10
 
 Youmu Kogasa 9
 
