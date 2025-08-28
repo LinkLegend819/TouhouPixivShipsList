@@ -500,6 +500,8 @@ Koakuma Lunasa 1x10000x5
 Koakuma Koishi 1x10000x5
 Koakuma Nazrin 2
 
+Koakuma Tenshi 1x10000x5
+
 Patchy Sakuya 29
 Patchy Remilia 869
 Patchy Flandre 71
@@ -566,30 +568,49 @@ Remilia Youmu 7
 Remilia Yuyuko 12
 Remilia Ran 1x10000
 Remilia Yukari 11
+
+Remilia Mokou 5
 Remilia Aya 19
 
 Remilia Yuuka 1x10000
 
 Remilia Hina 3
-
+Remilia Nitori 1x10000
 Remilia Momiji 4
 Remilia Sanae 23
-
+Remilia Kanako 6
 Remilia Suwako 2
+
+Remilia Yamame 1x10000
 
 Remilia Satori 355
 
+Remilia Okuu 9
 Remilia Koishi 24
-
+Remilia Nazrin 2
 Remilia Kogasa 55
+
+Remilia Murasa 1x10000
+Remilia Shou 19
+Remilia Byakuren 2
 
 Remilia Nue 10
 
+Remilia Miko 16
+
 Remilia Kagerou 1x10000
+
+Remilia Seija 1x10000
+
+Remilia Sagume 3
 
 Remilia Hecatia 2
 
 Remilia Suika 4
+
+Remilia Tenshi 26
+
+Remilia Shion 1x10000
 
 Remilia Yorihime 6
 
@@ -831,9 +852,14 @@ Youmu Parsee 3
 Youmu Yuugi 1x10000
 Youmu Satori 10
 
+Youmu Okuu 2
+Youmu Koishi 16
+
 Youmu Kogasa 9
 
 Youmu Murasa 1x10000
+
+Youmu Byakuren 1x10000
 
 Youmu Yoshika 3
 Youmu Tojiko 3
@@ -842,10 +868,14 @@ Youmu Mamizou 1x10000
 
 Youmu Shinmy 2
 
+Youmu Mayumi 14
+
 Youmu Iku 4
 Youmu Tenshi 5
 Youmu Hatate 2
 Youmu Kokoro 3
+
+Youmu Yorihime 9
 
 Youmu Kasen 5
 
@@ -1464,6 +1494,7 @@ Rin Zanmu 1x10000x5
 Okuu Saki 3
 
 Okuu Iku 3
+Okuu Tenshi 115
 
 Koishi Kogasa 67
 
