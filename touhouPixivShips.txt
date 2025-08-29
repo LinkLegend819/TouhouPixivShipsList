@@ -828,38 +828,26 @@ Youmu Yuyuko 1552
 Youmu Ran 25
 Youmu Yukari 20
 Youmu Wriggle 1x10000
-
 Youmu Tewi 1x10000
 Youmu Reisen 1032
-
 Youmu Mokou 21
-
 Youmu Aya 110
 Youmu Medicine 4
 Youmu Yuuka 1x10000
 Youmu Komachi 13
-
 Youmu Hina 1x10000
 Youmu Nitori 8
-
 Youmu Momiji 60
 Youmu Sanae 166
-
 Youmu Suwako 4
-
 Youmu Parsee 3
 Youmu Yuugi 1x10000
 Youmu Satori 10
-
 Youmu Okuu 2
 Youmu Koishi 16
-
 Youmu Kogasa 9
-
 Youmu Murasa 1x10000
-
 Youmu Byakuren 1x10000
-
 Youmu Yoshika 3
 Youmu Tojiko 3
 Youmu Futo 38
@@ -877,7 +865,6 @@ Youmu Kokoro 3
 Youmu Yorihime 9
 
 Youmu Kasen 5
-
 Yuyuko Ran 13
 Yuyuko Yukari 1799
 Yuyuko Mystia 76
@@ -890,20 +877,14 @@ Yuyuko Medicine 1x10000
 Yuyuko Yuuka 19
 Yuyuko Komachi 9
 Yuyuko Eiki 1x10000
-
 Yuyuko Shizuha 1x10000
-
 Yuyuko Hina 8
-
 Yuyuko Sanae 2
 Yuyuko Kanako 3
 Yuyuko Suwako 1x10000
-
 Yuyuko Yamame 15
 Yuyuko Parsee 1x10000
-
 Yuyuko Satori 10
-
 Yuyuko Koishi 2
 
 Yuyuko Yoshika 12
@@ -914,7 +895,6 @@ Yuyuko Waka 4
 Yuyuko Okina 1x10000
 
 Yuyuko Tenshi 9
-
 Yuyuko Kokoro 5
 
 Yuyuko Merry 2
@@ -948,10 +928,8 @@ Ran Tsukasa 15
 Ran Yuuma 125
 
 Yukari Wriggle 1x10000
-
 Yukari Kiene 8
 Yukari Tewi 7
-
 Yukari Eirin 103
 Yukari Kaguya 1x10000
 Yukari Mokou 5
@@ -971,7 +949,6 @@ Yukari Yuugi 2
 Yukari Satori 6
 
 Yukari Koishi 2
-
 Yukari Kogasa 3
 
 Yukari Byakuren 5
@@ -988,14 +965,10 @@ Yukari Zanmu 1x10000x5
 Yukari Suika 3
 Yukari Iku 2
 Yukari Tenshi 258
-
 Yukari Sumi 54
-
 Yukari Joon 5
-
 Yukari Renko 41
 Yukari Merry 100
-
 Yukari Toyohime 9
 
 Yukari Luna 7
@@ -1007,7 +980,6 @@ Wriggle Tewi 4
 Wriggle Eirin 1x10000
 Wriggle Mokou 25
 Wriggle Aya 2
-
 Wriggle Yuuka 647
 
 Wriggle Nitori 1x10000
@@ -1017,7 +989,6 @@ Wriggle Yamame 68
 Wriggle Parsee 1x10000
 
 Wriggle Koishi 4
-
 Wriggle Nazrin 11
 
 Wriggle Mamizou 1x10000
@@ -1025,7 +996,6 @@ Wriggle Mamizou 1x10000
 Wriggle Eternity 32
 
 Wriggle Megumu 6
-
 Wriggle Momoyo 6
 
 Wriggle Kosuzu 8
@@ -1035,7 +1005,6 @@ Mystia Tewi 1x10000
 Mystia Reisen 2
 
 Mystia Mokou 147
-
 Mystia Aya 8
 
 Mystia Sanae 3
@@ -1066,6 +1035,7 @@ Kiene Tenshi 1x10000
 
 Kiene Sumi 1x10000
 
+Kiene Akyuu 33
 Kiene Tokiko 4x5
 
 Tewi Reisen 742
@@ -1137,6 +1107,8 @@ Eirin Kokoro 1x10000
 Eirin Toyohime 1x10000
 
 Kaguya Mokou 3236
+
+Kaguya Yuuka 2
 
 Kaguya Sanae 1x10000
 
@@ -1279,6 +1251,8 @@ Yuuka Raiko 14
 
 Yuuka Suika 5
 Yuuka Tenshi 28
+
+Yuuka Akyuu 10
 
 Komachi Eiki 1770
 
@@ -2055,6 +2029,5 @@ Sunny Luna 2
 Sunny Star 8
 
 Luna Star 10
-
 
 Kasen Kosuzu 3
