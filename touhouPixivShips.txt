@@ -212,9 +212,7 @@ Reimu Yachie 10
 Reimu Mayumi 1x10000
 Reimu Keiki 3
 Reimu Misumaru 12x10
-
 Reimu Zanmu 2x5
-
 Reimu Suika 431
 Reimu Iku 5
 Reimu Tenshi 92
@@ -293,11 +291,8 @@ Marisa Hecatia 5
 Marisa Aunn 1x10000
 Marisa Narumi 57
 Marisa Okina 23
-
 Marisa Enoko 26x10x5
-
 Marisa Nareko 8x10x5
-
 Marisa Suika 3
 Marisa Iku 6
 Marisa Tenshi 16
@@ -442,7 +437,6 @@ Cirno Tsukasa 1x10000
 Cirno Megumu 3
 Cirno Chimata 1x10000
 Cirno Momoyo 2
-
 Cirno Suika 5
 Cirno Iku 17
 Cirno Tenshi 32
@@ -765,9 +759,7 @@ Alice Murasa 1x10000
 Alice Shou 1x10000
 Alice Byakuren 58
 Alice Seki 1x10000
-
 Alice Shinmy 5
-
 Alice Narumi 2
 
 Alice Keiki 3
@@ -775,23 +767,16 @@ Alice Keiki 3
 Alice Suika 10
 Alice Iku 35
 Alice Tenshi 9
-
 Alice Kokoro 1x10000
-
 Alice Yorihime 1x10000
-
 Alice Akyuu 1x10000
-
 Lily Youmu 16
-
 Lily Reisen 1x10000
-
 Lily Yuuka 18
 
 Lily Kogasa 5
 
 Lily Piece 3
-
 Lily Eternity 2
 
 Lily Aunn 1x10000
@@ -801,25 +786,20 @@ Lily Tenshi 1x10000
 Lily Tokiko 1x10000x5
 Lily Sunny 3
 Lily Star 1x10000
-
 Lunasa Merlin 9
 Lunasa Lyrica 6
 Lunasa Youmu 38
 Lunasa Yuyuko 3
-
 Lunasa Wriggle 4
 Lunasa Mystia 3
 
 Lunasa Aya 37
-
 Lunasa Yuuka 2
-
 Lunasa Shizuha 1x10000
 
 Lunasa Kanako 1x10000
 
 Lunasa Satori 1x10000
-
 Lunasa Kogasa 1x10000
 
 Lunasa Benben 23
@@ -1051,7 +1031,7 @@ Wriggle Momoyo 6
 Wriggle Kosuzu 8
 
 Mystia Kiene 2
-Mystia Tei 1x10000
+Mystia Tewi 1x10000
 Mystia Reisen 2
 
 Mystia Mokou 147
@@ -1209,6 +1189,8 @@ Mokou Iku 3
 Mokou Tenshi 20
 Mokou Sumi 116
 Mokou Shion 7
+
+Mokou Yorihime 3
 
 Mokou Akyuu 34
 
@@ -1883,6 +1865,7 @@ Sagume Hecatia 4
 Sagume Kutaka 4
 
 Sagume Yorihime 11
+Sagume Toyohime 4
 
 Piece Junko 1x10000
 Piece Hecatia 66
