@@ -1848,6 +1848,10 @@ Piece Junko 1x10000
 Piece Hecatia 66
 Piece Eternity 1x10000
 
+Piece Sunny 16
+
+Piece Star 7
+
 Junko Hecatia 315
 
 Junko Okina 28
