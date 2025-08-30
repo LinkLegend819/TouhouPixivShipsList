@@ -22,7 +22,7 @@ Ran
 Yukari
 Wriggle
 Mystia
-Kiene
+Keine
 Tewi
 Reisen
 Eirin
@@ -157,7 +157,7 @@ Reimu Ran 87
 Reimu Yukari 3132
 Reimu Wriggle 9
 Reimu Mystia 7
-Reimu Kiene 6
+Reimu Keine 6
 Reimu Tewi 9
 Reimu Reisen 38
 Reimu Eirin 9
@@ -288,6 +288,7 @@ Marisa Seija 16
 Marisa Raiko 1x10000
 Marisa Sagume 1x10000
 Marisa Piece 3
+Marisa Junko 1x10000
 Marisa Hecatia 5
 Marisa Aunn 1x10000
 Marisa Narumi 57
@@ -368,7 +369,7 @@ Cirno Ran 11
 Cirno Yukari 59
 Cirno Wriggle 117
 Cirno Mystia 48
-Cirno Kiene 43
+Cirno Keine 43
 Cirno Tewi 30
 Cirno Reisen 10
 Cirno Eirin 11
@@ -622,7 +623,7 @@ Flandre Youmu 72
 Flandre Yuyuko 7
 Flandre Yukari 13
 Flandre Mystia 1x10000
-Flandre Kiene 4
+Flandre Keine 4
 Flandre Tewi 29
 Flandre Reisen 5
 Flandre Kaguya 5
@@ -671,7 +672,7 @@ Letty Yuyuko 6
 
 Letty Yukari 1x10000
 
-Letty Kiene 1x10000
+Letty Keine 1x10000
 
 Letty Mokou 9
 
@@ -732,7 +733,7 @@ Alice Ran 9
 Alice Yukari 114
 Alice Wriggle 1x10000
 Alice Mystia 69
-Alice Kiene 2
+Alice Keine 2
 Alice Tewi 2
 Alice Reisen 34
 Alice Eirin 3
@@ -870,11 +871,13 @@ Youmu Kokoro 3
 
 Youmu Yorihime 9
 
+Youmu Akyuu 2
+
 Youmu Kasen 5
 Yuyuko Ran 13
 Yuyuko Yukari 1799
 Yuyuko Mystia 76
-Yuyuko Kiene 1x10000
+Yuyuko Keine 1x10000
 Yuyuko Eirin 28
 Yuyuko Kaguya 8
 Yuyuko Mokou 5
@@ -934,7 +937,7 @@ Ran Tsukasa 15
 Ran Yuuma 125
 
 Yukari Wriggle 1x10000
-Yukari Kiene 8
+Yukari Keine 8
 Yukari Tewi 7
 Yukari Eirin 103
 Yukari Kaguya 1x10000
@@ -981,7 +984,7 @@ Yukari Luna 7
 Yukari Kasen 4
 
 Wriggle Mystia 420
-Wriggle Kiene 1x10000
+Wriggle Keine 1x10000
 Wriggle Tewi 4
 Wriggle Eirin 1x10000
 Wriggle Mokou 25
@@ -1001,12 +1004,11 @@ Wriggle Mamizou 1x10000
 
 Wriggle Eternity 32
 
-Wriggle Megumu 6
 Wriggle Momoyo 6
 
 Wriggle Kosuzu 8
 
-Mystia Kiene 2
+Mystia Keine 2
 Mystia Tewi 1x10000
 Mystia Reisen 2
 
@@ -1025,24 +1027,24 @@ Mystia Tokiko 57x5
 
 Mystia Miyoi 3
 
-Kiene Tewi 1x10000
-Kiene Reisen 3
-Kiene Eirin 159
-Kiene Kaguya 110
-Kiene Mokou 3430
+Keine Tewi 1x10000
+Keine Reisen 3
+Keine Eirin 159
+Keine Kaguya 110
+Keine Mokou 3430
 
-Kiene Eiki 1x10000
+Keine Eiki 1x10000
 
-Kiene Nitori 4
+Keine Nitori 4
 
-Kiene Kagerou 26
+Keine Kagerou 26
 
-Kiene Tenshi 1x10000
+Keine Tenshi 1x10000
 
-Kiene Sumi 1x10000
+Keine Sumi 1x10000
 
-Kiene Akyuu 33
-Kiene Tokiko 4x5
+Keine Akyuu 33
+Keine Tokiko 4x5
 
 Tewi Reisen 742
 Tewi Eirin 17
@@ -1517,7 +1519,6 @@ Yamame Koishi 2
 
 Yamame Nue 5
 
-Yamame Megumu 5
 Yamame Momoyo 5
 
 Parsee Yuugi 1589
@@ -1965,6 +1966,7 @@ Takane Sannyo 8x10
 
 Sannyo Misumaru 52x10x10
 
+Tsukasa Megumu 163
 Tsukasa Chimata 7
 Tsukasa Momoyo 18
 
