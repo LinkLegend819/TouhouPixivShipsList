@@ -124,6 +124,7 @@ Renko
 Merry
 Yorihime
 Toyohime
+ReisenII
 Akyuu
 Tokiko
 Sunny
@@ -786,6 +787,9 @@ Lily Aunn 1x10000
 Lily Tenshi 1x10000
 
 Lily Tokiko 1x10000x5
+
+Lily ReisenII 2
+
 Lily Sunny 3
 Lily Star 1x10000
 Lunasa Merlin 9
@@ -1091,6 +1095,8 @@ Reisen Junko 344
 
 Reisen Aunn 1x10000
 
+Reisen ReisenII 53
+
 Reisen Kosuzu 1x10000
 
 Eirin Kaguya 781
@@ -1355,6 +1361,8 @@ Hina Iku 17
 Hina Tenshi 25
 
 Hina Shion 9
+
+Hina ReisenII 2
 
 Nitori Momiji 227
 Nitori Sanae 3
@@ -2029,6 +2037,9 @@ Joon Sunny 2
 Renko Merry 3966
 
 Yorihime Toyohime 343
+Yorihime ReisenII 11
+
+Toyohime ReisenII 7
 
 Akyuu Kosuzu 494
 
